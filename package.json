@@ -27,7 +27,7 @@
     "vite": "^8.0.12"
   },
 
-  "homepage": "https://socorrolima.github.io/rede-psb",
+  "homepage": "git@github.com:socorrolima/suporte_DPSB.git",
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d dist"
